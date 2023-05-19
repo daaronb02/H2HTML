@@ -48,7 +48,6 @@ def stringbuilder():
         except(KeyError):
             print('A character was not recognized. Try again')
             stringbuilder()
-        print(syl)
     return syl
 
 
