@@ -122,5 +122,5 @@ syllables={
 'we':'ᐍ','wi':'ᐏ','wo':'ᐓ','wa':'ᐗ',
 'ye':'ᔦ','yi':'ᔨ','yo':'ᔪ','ya':'ᔭ'}
 
-
+#Open menu when script is called
 menu()
